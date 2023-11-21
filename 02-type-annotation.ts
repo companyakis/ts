@@ -1,3 +1,5 @@
+//app.ts file
+
 //introduction to type annotation
 
 let myName: string = "Mustafa";
